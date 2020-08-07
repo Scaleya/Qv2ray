@@ -4,35 +4,31 @@
 }
 {
   "uploader_id": "github-actions[bot]",
-  "asset_name": "qv2ray-2.6.2-win32.exe"
+  "asset_name": "qv2ray-2.6.3-win32.exe"
 }
 {
   "uploader_id": "github-actions[bot]",
-  "asset_name": "qv2ray-2.6.2-win64.exe"
-}
-{
-  "uploader_id": "DuckSoft",
-  "asset_name": "qv2ray-legacy.dmg"
+  "asset_name": "qv2ray-2.6.3-win64.exe"
 }
 {
   "uploader_id": "github-actions[bot]",
-  "asset_name": "Qv2ray-v2.6.2.macOS-x64.dmg"
+  "asset_name": "Qv2ray-v2.6.3.macOS-x64.dmg"
 }
 {
   "uploader_id": "github-actions[bot]",
-  "asset_name": "Qv2ray.v2.6.2.linux-x64.AppImage"
+  "asset_name": "Qv2ray.v2.6.3.linux-x64.AppImage"
 }
 {
   "uploader_id": "github-actions[bot]",
-  "asset_name": "Qv2ray.v2.6.2.Windows-x64.7z"
+  "asset_name": "Qv2ray.v2.6.3.Windows-x64.7z"
 }
 {
   "uploader_id": "github-actions[bot]",
-  "asset_name": "Qv2ray.v2.6.2.Windows-x86.7z"
+  "asset_name": "Qv2ray.v2.6.3.Windows-x86.7z"
 }
 {
   "uploader_id": "github-actions[bot]",
-  "asset_name": "qv2ray_2.6.2-1stable1_amd64.deb"
+  "asset_name": "qv2ray_2.6.3-1stable1_amd64.deb"
 }
 {
   "uploader_id": "github-actions[bot]",
